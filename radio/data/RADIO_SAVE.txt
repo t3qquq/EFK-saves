@@ -14,4 +14,4 @@ LvObfuscation = true
 95000,1,1,none,-1
 101000,1,365,static,382,none,-1
 626,1,1,main,367,none,-1
-103200,1,1,none,-1
+103200,1,1,GEN-730540,-1
